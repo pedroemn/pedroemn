@@ -6,9 +6,11 @@
 
 
 ## 🧠 Sobre mim
-- 📚 Estudando desenvolvimento backend
+- 🧑‍💻 Curso Analise e desenvolvimento de sistemas ( Unit - 1 periodo )
+- 📚 Estudo recorrentemente focando em desenvolvimento backend
 - 🔥 Evoluindo todos os dias com projetos práticos
 - 🎯 Foco em APIs, banco de dados e boas práticas
+
 
 
 
