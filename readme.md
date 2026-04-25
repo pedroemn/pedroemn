@@ -23,7 +23,7 @@
 
 ## 📊 Estatísticas
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroemn&layout=compact&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroemn&show_icons=true&theme=dark&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroemn&layout=compact&theme=dark&cache_seconds=1800)
