@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css" />
 </div>
 
 
@@ -33,8 +33,9 @@
 
 
 ## 📫 Contato
-- 💼 LinkedIn: (coloque aqui)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: (www.linkedin.com/in/pedroemn)
+)
+- 📧 Email: (pomansir@gmail.com)
 
 ---
 
