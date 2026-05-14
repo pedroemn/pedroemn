@@ -2,11 +2,11 @@
 
 ## Desenvolvedor Backend
 
-Desenvolvedor backend em formacao, com foco na construcao de APIs, integracao de sistemas e desenvolvimento de aplicacoes escalaveis. Busco evoluir continuamente por meio de projetos praticos, estudo constante e aplicacao de boas praticas de engenharia de software.
+Desenvolvedor backend em formaçao, com foco no desenvolvimento bakcend , integracao de sistemas , desenvolvimento de aplicacoes escalaveis e Analise de Dados. Busco evoluir continuamente por meio de projetos práticos, estudo constante e aplicacao de boas praticas de engenharia de software.
 
 ## Sobre mim
 
-- Foco no desenvolvimento backend e na criacao de APIs robustas
+- Foco no desenvolvimento backend 
 - Interesse em arquitetura de software, bancos de dados e integracao entre sistemas
 - Evolucao continua com projetos praticos e aprendizado constante
 - Compromisso com codigo limpo, organizacao e manutencao de longo prazo
@@ -20,7 +20,7 @@ Desenvolvedor backend em formacao, com foco na construcao de APIs, integracao de
 ## Principais competencias
 
 - Desenvolvimento de APIs REST com FastAPI
-- Programacao com Python e JavaScript aplicada ao backend
+- Programacao com Python aplicada ao backend
 - Modelagem, consulta e manipulacao de dados com PostgreSQL
 - Estruturacao de aplicacoes com foco em clareza, organizacao e escalabilidade
 
