@@ -14,7 +14,7 @@ Desenvolvedor backend em formaçao, com foco no desenvolvimento bakcend , integr
 ## Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgresql,fastapi" alt="Tecnologias: Python, JavaScript, HTML, CSS, PostgreSQL e FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,postgresql,fastapi" alt="Tecnologias: Python, Java, HTML, CSS, PostgreSQL e FastAPI" />
 </div>
 
 ## Principais competencias
